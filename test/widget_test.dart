@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/main.dart'; // Anda harus mengimpor file main.dart sesuai dengan proyek Anda.
+import 'package:flutter_application_1/main.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
